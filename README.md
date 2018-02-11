@@ -8,4 +8,10 @@ phase transitions in:
 http://iopscience.iop.org/article/10.1088/0031-8949/91/1/013007/meta
 
 The implementation is hybrid, since in the iterations where differential evolution fails to improve the solution, standard
-gradient descent is employed. This greatly improves the convergence of the method, while still enjoying the exploration capabilities of the differential evolution approach.
+gradient descent is employed. This greatly improves the convergence of the method, while still enjoying the exploration 
+capabilities of the differential evolution approach. Here is an animation showing different cristaline structures of ions,
+made from the output of the program:
+
+https://www.youtube.com/watch?v=BrrInpyH2iA
+
+
